@@ -22,6 +22,7 @@ Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
 [Power BI File]()
 
 ## Quick Dashboard Demo
+https://github.com/user-attachments/assets/f6576610-1e47-4ec8-8748-43f6a8356441
 
 ## Model View
 
