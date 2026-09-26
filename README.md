@@ -17,7 +17,7 @@ Finance needed a single view connecting raw transaction level data to the metric
 Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
 
 ## Links
-[Dashboard Screenshots](https://github.com/kashifusman100/Finance-Intelligence/tree/main/Dashboard_Screenshots)
+[Dashboard Screenshots](https://github.com/kashifusman100/Finance-Intelligence/tree/main/Dashboard%20Screenshots)
 
 [Power BI File](https://github.com/kashifusman100/Finance-Intelligence/tree/main/Power%20BI%20File)
 
