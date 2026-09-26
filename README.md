@@ -22,7 +22,7 @@ Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
 [Power BI File](https://github.com/kashifusman100/Finance-Intelligence/tree/main/Power%20BI%20File)
 
 ## Quick Dashboard Demo
-https://github.com/user-attachments/assets/3548b5bf-8994-4e39-8983-43c1c287e2b0
+https://github.com/kashifusman100/Finance-Intelligence/tree/main/Power%20BI%20File
 
 ## Model View
 <img width="1369" height="746" alt="Image" src="https://github.com/user-attachments/assets/f6de8998-9ef9-4dd6-af3e-d022aa25600e" />
